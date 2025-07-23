@@ -1,0 +1,17 @@
+[
+    {
+        "descripcion": "bañarse",
+        "completada": true,
+        "fecha_creacion": "2025-07-22T18:08:15.227885"
+    },
+    {
+        "descripcion": "lavar",
+        "completada": true,
+        "fecha_creacion": "2025-07-22T18:08:17.842528"
+    },
+    {
+        "descripcion": "dormir",
+        "completada": false,
+        "fecha_creacion": "2025-07-22T18:08:23.474720"
+    }
+]
